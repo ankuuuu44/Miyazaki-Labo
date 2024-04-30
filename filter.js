@@ -78,6 +78,7 @@ jQuery(document).ready(function(){
             jQuery("#Timesearch_minmax").show();
             console.log("this.val === range");
         }else{
+            //aaa
             //jQuery("#Timesearch_minmax").addClass("hide");
             jQuery("#Timesearch_minmax").hide();
         }
